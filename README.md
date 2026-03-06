@@ -7,6 +7,8 @@ Now supports both windows and linux via flatpak
 
 This project is by no means official, and this variation is not mine. Have a look at https://www.infinitepigames.com/sovereign-chess.
 
+**Note: This project is unmantained and planned to be rewritten entirely. See https://github.com/SeeStarz/SovereignChess**
+
 ## Features
 -Base sovereign chess game with complete ruleset.  
 -Bases are colored according to the player who own it.  
